@@ -224,3 +224,17 @@ body {
 .resume .resume_right .resume_hobby ul li:last-child:before {
   display: none;
 }
+
+.box{
+  display: block;
+  height : 250px;
+  width : 250px;
+ align-items: center;
+ justify-content: center;
+ text-align: center;
+ margin-top: 25px;
+ margin-left: 14px;
+}
+.profile-image {
+  border-radius: 50%;
+}
